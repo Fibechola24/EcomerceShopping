@@ -1,7 +1,7 @@
 # Ecomerce Shopping web App
 Welcome to our e-commerce shopping web app! This application allows users to browse through various products, add them to their cart, and make purchases securely.
 
-## Technologies Used
+## Technologies 
 * Node.js: Backend server environment.
 * MongoDB: Database for storing product information and user data.
 * React: Frontend framework for building a dynamic user interface.
